@@ -1,4 +1,4 @@
-json_process
+image-text structure detection
 ============
 
-code for processing json type data
+code for image-text structure detection
